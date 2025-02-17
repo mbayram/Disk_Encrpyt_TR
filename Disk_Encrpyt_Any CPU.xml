@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<iasettings>
+  <projectproperties>
+    <manufacturer>mebayram</manufacturer>
+    <productname>Disk_Encrpyt</productname>
+    <productversion>1.0.0.0</productversion>
+    <productcode>{a4d238e8-bdc5-4c8e-ae63-9de1dc876bd8}</productcode>
+    <upgradecode>{37edce33-6fbe-488e-8305-cea44afdf058}</upgradecode>
+    <language>0</language>
+    <languagename>English</languagename>
+  </projectproperties>
+  <summary>
+    <title>Disk_Encrpyt</title>
+    <subject>Disk_Encrpyt</subject>
+    <author>mebayram</author>
+    <summarycomments>Disk_Encrpyt</summarycomments>
+    <revisioncode>{356e8b02-66ed-4d8a-96a8-b03c4c3e465e}</revisioncode>
+    <uacelevation>requireAdministrator</uacelevation>
+  </summary>
+  <addremove>
+    <publishername>mebayram</publishername>
+    <contactname>mebayram</contactname>
+    <helplink>http://www.mywebsite.com</helplink>
+    <productupdatelink>http://www.mywebsite.com</productupdatelink>
+    <addremovecomments>All Rights Reserved</addremovecomments>
+    <iconfile />
+  </addremove>
+  <codegen>
+    <generateincludefiles>0</generateincludefiles>
+    <generatefeatures>1</generatefeatures>
+    <refreshscript>0</refreshscript>
+  </codegen>
+  <compilervariables>
+    <variables />
+  </compilervariables>
+  <build>
+    <buildtype>1</buildtype>
+    <buildasmsi>True</buildasmsi>
+    <cachesources>1</cachesources>
+  </build>
+  <targetfolders />
+  <files>
+    <filedetails filename="C:\Users\mebayram\Source\Repos\mbayram\Disk_Encrpyt\bin\Debug\Disk_encrypt.exe" targetlocation="$TARGETDIR$" type="1" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="1" runprogram="0" installfilecommand="1" />
+    <filedetails filename="C:\Users\mebayram\Source\Repos\mbayram\USB_detect_service\USB_detect_service\bin\Debug\USB_detect_service.exe" targetlocation="$TARGETDIR$" type="1" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="1" />
+  </files>
+  <dependencies />
+  <registry />
+  <dialogtheme>
+    <themename>Official</themename>
+  </dialogtheme>
+  <authenticode>
+    <sign>0</sign>
+    <mode>0</mode>
+    <certificatefile />
+    <keyfile />
+    <pfxfile />
+    <productinfourl />
+    <authpassword />
+    <timestampurl />
+    <signall>0</signall>
+  </authenticode>
+  <compression>
+    <compressiontype>8</compressiontype>
+    <encrypt>0</encrypt>
+    <compressionpassword />
+  </compression>
+  <output>
+    <outputtype>0</outputtype>
+    <location />
+    <filename />
+    <calculatefilehash>0</calculatefilehash>
+    <refreshrevisioncode>1</refreshrevisioncode>
+  </output>
+</iasettings>

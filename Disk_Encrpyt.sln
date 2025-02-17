@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Disk_Encrpyt", "Disk_Encrpyt.csproj", "{DE2C4E8D-F9E1-4B8A-AD18-E31BE0417433}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE2C4E8D-F9E1-4B8A-AD18-E31BE0417433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE2C4E8D-F9E1-4B8A-AD18-E31BE0417433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE2C4E8D-F9E1-4B8A-AD18-E31BE0417433}.Debug|x64.ActiveCfg = Debug|x64
+		{DE2C4E8D-F9E1-4B8A-AD18-E31BE0417433}.Debug|x64.Build.0 = Debug|x64
+		{DE2C4E8D-F9E1-4B8A-AD18-E31BE0417433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE2C4E8D-F9E1-4B8A-AD18-E31BE0417433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE2C4E8D-F9E1-4B8A-AD18-E31BE0417433}.Release|x64.ActiveCfg = Debug|x64
+		{DE2C4E8D-F9E1-4B8A-AD18-E31BE0417433}.Release|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FA09245-73F5-414C-BB40-5A7AC2C4FE67}
+	EndGlobalSection
+EndGlobal
